@@ -31,11 +31,6 @@ AtY0laUfhglK3lC7
 ```bash
 mvn test
 ```
-## Project Structure
-
-- src/main/java → production code
-- src/test/java → unit tests
-- target/ → Maven build output
 
 ## Design notes
 
